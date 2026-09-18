@@ -28,6 +28,12 @@ La documentación técnica completa — arquitectura, pipeline paso a paso, desp
 
 📄 [`docs/PIPELINE.md`](docs/PIPELINE.md)
 
+
+Aspecto de la app. Su uso es muy simple:
+se le da click dentro de la zona a estimar (rectangulo rojo del mapa),y se espera que el modelo muestre su restultado en el rectangulo inferior
+
+📄 [`docs/vista_app.md`](docs/vista_app.md
+
 ## Estado actual
 
 ```
